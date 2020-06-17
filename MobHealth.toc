@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: MobHealth2
 ## Notes: Displays current and maximum health numbers for targeted mobs.
-## Notes: Exibe pontos de vida atuais e máximos para alvos selecionados.
+## Notes-ptBR: Exibe pontos de vida atuais e máximos para alvos selecionados.
 ## SavedVariables: MobHealthDB, MobHealthConfig
 MobHealth.xml
